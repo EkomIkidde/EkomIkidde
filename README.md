@@ -1,4 +1,4 @@
-####**I am currently learning data analysis**
+**I am currently learning Data analysis**
 
 I'm looking to collaborate with other Data Analysts
 
